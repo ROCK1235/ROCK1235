@@ -48,28 +48,39 @@
 <line x1="500" y1="54" x2="1300" y2="54" stroke="#30363d" stroke-width="1"/>
 
 <!-- ===== System block ===== -->
-<text x="500" y="88"><tspan class="key">OS</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="value">Mac OS</tspan></text>
-<text x="500" y="122"><tspan class="key">Uptime</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="ph">[e.g. 2 years, 3 months]</tspan></text>
-<text x="500" y="156"><tspan class="key">Host</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="ph">[your company / college]</tspan></text>
-<text x="500" y="190"><tspan class="key">Kernel</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="ph">[a fun tagline about you]</tspan></text>
+<text x="500" y="88"><tspan class="key">OS</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="value">Windows 11, Linux</tspan></text>
+
+<text x="500" y="122"><tspan class="key">GitHub Since</tspan><tspan x="760" class="cc" id="age_data_dots" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="value" id="age_data">3 years</tspan></text>
+
+<text x="500" y="156"><tspan class="key">Education</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="value">ITER, SOA University</tspan></text>
+
+<text x="500" y="190"><tspan class="key">Focus</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="value">Backend Engineering</tspan></text>
+
 <text x="500" y="224"><tspan class="key">IDE</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="value">VS Code, IntelliJ IDEA</tspan></text>
 
 <text x="500" y="266"><tspan class="key">Languages.Programming</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="value">Java, TypeScript, JavaScript, Python</tspan></text>
-<text x="500" y="300"><tspan class="key">Languages.Computer</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="ph">[e.g. HTML, CSS, JSON, YAML]</tspan></text>
-<text x="500" y="334"><tspan class="key">Languages.Real</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="ph">[e.g. English, Odia, Hindi]</tspan></text>
 
-<text x="500" y="376"><tspan class="key">Hobbies.Software</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="ph">[your hobbies]</tspan></text>
-<text x="500" y="410"><tspan class="key">Hobbies.Hardware</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="ph">[your hobbies]</tspan></text>
+<text x="500" y="300"><tspan class="key">Languages.Computer</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="value">HTML, CSS, SQL, JSON, XML</tspan></text>
+
+<text x="500" y="334"><tspan class="key">Languages.Real</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="value">English, Hindi, Odia</tspan></text>
+
+<text x="500" y="376"><tspan class="key">Hobbies.Software</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="value">Backend Dev, Open Source, APIs</tspan></text>
+
+<text x="500" y="410"><tspan class="key">Hobbies.Hardware</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="value">PC Hardware, Networking</tspan></text>
 
 <!-- ===== Contact ===== -->
 <text x="500" y="452" class="hdr">Contact</text>
 <line x1="500" y1="466" x2="1300" y2="466" stroke="#30363d" stroke-width="1"/>
 
-<text x="500" y="500"><tspan class="key">Email.Personal</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="value">dashayush1235@gmail.com</tspan></text>
-<text x="500" y="534"><tspan class="key">Email.Personal</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="ph">[second personal email]</tspan></text>
-<text x="500" y="568"><tspan class="key">Email.Work</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="ph">[work email]</tspan></text>
+<text x="500" y="500"><tspan class="key">Email</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="value">dashayush1235@gmail.com</tspan></text>
+
+<text x="500" y="534"><tspan class="key">GitHub</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="value">github.com/ROCK1235</tspan></text>
+
+<text x="500" y="568"><tspan class="key">Current Role</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="value">Software Engineer</tspan></text>
+
 <text x="500" y="602"><tspan class="key">LinkedIn</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="value">ayush-kumar-dash-30611b165</tspan></text>
-<text x="500" y="636"><tspan class="key">Discord</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="ph">[discord username]</tspan></text>
+
+<text x="500" y="636"><tspan class="key">Project</tspan><tspan x="760" class="cc" textLength="45" lengthAdjust="spacingAndGlyphs">........</tspan><tspan x="815" class="value">Intelligent Medicine Supply Network</tspan></text>
 
 <!-- ===== GitHub Stats ===== -->
 <text x="500" y="678" class="hdr">GitHub Stats</text>
